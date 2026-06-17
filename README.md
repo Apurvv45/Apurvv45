@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Apurv%20Surwase&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Robotics%20%E2%80%A2%20Embedded%20Systems&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/Apurvv45">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=A9B1D6&center=true&vCenter=true&width=700&lines=Building+a+Humanoid+Robot+%F0%9F%A4%96;AI%2FML+%7C+IoT+%7C+Embedded+Systems;Co-built+Nexus+%E2%80%94+a+real-time+chat+app;Currently+grinding+SPPU+exams+%26+DSA" alt="typing-svg" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=A9B1D6&center=true&vCenter=true&width=700&lines=Build+a+Humanoid+robot+%F0%9F%A4%96;AI%2FML+%7C+IoT+%7C+Embedded+Systems;Co-built+Nexus+%E2%80%94+a+real-time+chat+app;Currently+grinding+SPPU+exams+%26+DSA" alt="typing-svg" />
 </a>
 
 </div>
@@ -85,9 +85,9 @@ I'm a third-year Computer Engineering student building things where hardware mee
 <div align="center">
 
 <!-- Replace the # below with your actual LinkedIn URL -->
-<a href="github.com/Apurvv45"><img src="https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
 <!-- Replace the email below with your actual email -->
-<a href="mailto:surwaseapurv987@gmail.com"><img src="https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
 
 <br/><br/>
 
